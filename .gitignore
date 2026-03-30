@@ -1,0 +1,17 @@
+# Swift / Apple
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+
+# Artifacts
+SwiftDL.app/
+*.icns
+logo.iconset/
+
+# Local settings
+.claude/
+.omc/
+.gemini/

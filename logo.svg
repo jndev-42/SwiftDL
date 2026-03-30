@@ -1,0 +1,20 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- macOS squircle path (standard proportions) -->
+  <path d="M1024 512C1024 883.2 883.2 1024 512 1024C140.8 1024 0 883.2 0 512C0 140.8 140.8 0 512 0C883.2 0 1024 140.8 1024 512Z" fill="url(#paint0_linear)"/>
+  
+  <!-- Subtle inner depth -->
+  <path d="M1024 512C1024 883.2 883.2 1024 512 1024C140.8 1024 0 883.2 0 512C0 140.8 140.8 0 512 0C883.2 0 1024 140.8 1024 512Z" fill="black" fill-opacity="0.1"/>
+
+  <!-- Symbol de téléchargement -->
+  <circle cx="512" cy="512" r="320" stroke="white" stroke-width="48" stroke-linecap="round" stroke-dasharray="1400 600"/>
+  
+  <!-- Flèche centrale -->
+  <path d="M512 320V640M512 640L392 520M512 640L632 520" stroke="white" stroke-width="64" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <defs>
+    <linearGradient id="paint0_linear" x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00A3FF"/>
+      <stop offset="1" stop-color="#0057FF"/>
+    </linearGradient>
+  </defs>
+</svg>
