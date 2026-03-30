@@ -12,7 +12,8 @@
 
 ## ✨ Points forts
 
-- 📺 **Support YouTube Premium** : Télécharge automatiquement la meilleure qualité disponible (1080p, 4K, 8K) en récupérant séparément les flux vidéo et audio.
+- 📺 **Support StremIO** : Supporte le téléchargement de contenus en provenance de StremIO.
+- 📺 **Support YouTube Premium** : Télécharge automatiquement la meilleure qualité disponible (1080p, 4K, 8K) en récupérant séparément les flux vidéo et audio. Fournir un url du type `https://www.youtube.com/watch?v=`.
 - ⚡ **Fusion Instantanée** : Utilise `AVFoundation` (`AVMerger`) pour assembler les flux vidéo et audio sans réencodage (Remuxing), préservant 100% de la qualité originale en un clin d'œil.
 - 🛠️ **Zéro Configuration** : `yt-dlp` est automatiquement téléchargé, installé et mis à jour de manière isolée dans votre dossier `Application Support`.
 - 📂 **Respect du Sandbox** : Utilise les protocoles de sécurité de macOS (App Sandbox) avec gestion des permissions via les Bookmarks de fichiers.
